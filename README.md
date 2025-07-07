@@ -28,8 +28,6 @@
 ### 🧱 Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-3B3B3B?logo=amazon-aws&logoColor=white&style=for-the-badge)
 
 ### 📈 Monitoring & Logging
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
@@ -51,8 +49,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:youremail@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rakeshyatish@gmail.com)
 
 ---
 
