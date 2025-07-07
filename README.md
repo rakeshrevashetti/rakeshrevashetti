@@ -52,7 +52,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rakeshyatish@gmail.com)
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakeshrevashetti&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
