@@ -16,6 +16,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
 
 ## 📊 GitHub Stats
 ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakeshrevashetti&show_icons=true&theme=radical)
