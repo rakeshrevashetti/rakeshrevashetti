@@ -49,8 +49,7 @@
 
 ## 🌐 Connect with Me
 
-[📬 Gmail](mailto:rakeshyatish@gmail.com)
-
+**📧 Email:** [rakeshyatish@gmail.com](mailto:rakeshyatish@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakeshrevashetti&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
