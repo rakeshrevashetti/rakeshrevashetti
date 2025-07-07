@@ -49,8 +49,7 @@
 
 ## 🌐 Connect with Me
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rakeshyatish@gmail.com)
+[📬 Gmail](mailto:rakeshyatish@gmail.com)
 
 
 <p align="center">
