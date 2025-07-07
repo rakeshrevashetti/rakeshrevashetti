@@ -37,20 +37,10 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshrevashetti&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshrevashetti&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshrevashetti&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
 **📧 Email:** [rakeshyatish@gmail.com](mailto:rakeshyatish@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakeshrevashetti&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
-</p>
+
